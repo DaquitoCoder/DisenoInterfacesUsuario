@@ -1,4 +1,4 @@
-# DisenoInterfacesUsuario
+# Diseño de interfaces de usuario
 
 
 ### Acerca de este repositorio
